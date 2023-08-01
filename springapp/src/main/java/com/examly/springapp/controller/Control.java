@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 
 @Controller
-public class COntrol {
+public class Control {
     @Autowired
     private TaskService ts;
     @GetMapping("/alltasks")
