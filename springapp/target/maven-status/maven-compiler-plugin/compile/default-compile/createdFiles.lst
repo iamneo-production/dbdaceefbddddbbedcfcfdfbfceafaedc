@@ -1,0 +1,6 @@
+com/examly/springapp/services/TaskService.class
+com/examly/springapp/services/TaskServiceImpl.class
+com/examly/springapp/SpringappApplication.class
+com/examly/springapp/dao/Taskdao.class
+com/examly/springapp/controller/Control.class
+com/examly/springapp/entity/Task.class
